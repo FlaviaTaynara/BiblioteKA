@@ -1,3 +1,10 @@
+**Project made by:**
+https://github.com/FelipeDominguess --->> **Felipe Dominguess**
+https://github.com/Pedropaa2 --->> **Pedro Pereira**
+https://github.com/Djefferson99 --->> **Djefferson Wallacy**
+https://github.com/FlaviaTaynara --->> **Flávia Maciu**
+
+
 **BilioteKA**
 
 **Empréstimo de Livros**
