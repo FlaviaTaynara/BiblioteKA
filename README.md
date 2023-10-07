@@ -1,7 +1,8 @@
-**Project made by:**
-https://github.com/FelipeDominguess --->> **Felipe Dominguess**
-https://github.com/Pedropaa2 --->> **Pedro Pereira**
-https://github.com/Djefferson99 --->> **Djefferson Wallacy**
+<span style="color:green">**Project made by:**
+
+https://github.com/FelipeDominguess --->> **Felipe Dominguess**<br>
+https://github.com/Pedropaa2 --->> **Pedro Pereira**<br>
+https://github.com/Djefferson99 --->> **Djefferson Wallacy**<br>
 https://github.com/FlaviaTaynara --->> **Flávia Maciu**
 
 
